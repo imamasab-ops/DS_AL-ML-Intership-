@@ -1,2 +1,4 @@
 # DS_AL-ML-Intership-
-Data
+data
+src
+
